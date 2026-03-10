@@ -5,10 +5,9 @@ Một nền tảng thương mại điện tử chuyên về mua bán các templa
 ## 📸 Demo
 
 ### Screenshots
-
 | Home Page | User | Admin Panel |
 |-----------|---------|---------|
-| <img src="docs/images/home.png" width="400"/> | <img src="docs/images/user.png" width="400"/> | <img src="docs/images/dashboard.png" width="400"/>|
+| <img src="docs/home.png" width="400"/> | <img src="docs/user.png" width="400"/> | <img src="docs/dashboard.png" width="400"/>|
 
 ## ✨ Features
 
