@@ -4,15 +4,11 @@ Một nền tảng thương mại điện tử chuyên về mua bán các templa
 
 ## 📸 Demo
 
-> **Lưu ý:** Dự án đang trong giai đoạn phát triển. Link demo sẽ được cập nhật sau.
+### Screenshots
 
-### Tài khoản demo:
-- **Admin**: 
-  - Email: `admin@email.com`
-  - Password: `admin123`
-- **User**: 
-  - Email: `nguyen.an@email.com`
-  - Password: `user123`
+| Home Page | User | Admin Panel |
+|-----------|---------|---------|
+| <img src="docs/images/home.png" width="400"/> | <img src="docs/images/user.png" width="400"/> | <img src="docs/images/dashboard.png" width="400"/>|
 
 ## ✨ Features
 
